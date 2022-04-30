@@ -1,0 +1,26 @@
+.list{
+    color: rgb(173, 80, 135);
+    width: 300px;
+    height: 25px;
+    margin: 20px auto;
+    font-weight: bold;
+
+}
+.list p{
+    padding: 10px;
+    /*margin-right: 25px;*/
+    
+}
+
+.list p span{
+    padding-right: 15px;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.faicons{
+    font-size: 20px;
+    
+}
+
